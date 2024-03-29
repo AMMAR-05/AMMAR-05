@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammar-05" alt="ammar-05" /></a> </p>
 
-- Fuse.space [Fuse.space](https://fuse.space)
+- [Fuse.space](https://fuse.space)
 
 - 📫 How to reach me **ammardan.5d@gmail.com**
 
