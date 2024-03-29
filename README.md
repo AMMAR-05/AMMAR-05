@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ammar</h1>
-<h3 align="center">Web developer</h3>
+<h3 align="center">Web Developer</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammar-05&theme=vue&show_icons=true)
 
